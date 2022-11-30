@@ -1,3 +1,3 @@
 # GBles3
 
->git clone - cne repository
+>git clone - clone repository
